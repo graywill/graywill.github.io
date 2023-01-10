@@ -11,7 +11,7 @@ We understand that running a business can be challenging, and that's why we are 
 
 Our approach is professional yet friendly and we always strive to craft fair deals that provide significant value to both parties. We’re passionate about building successful businesses and we’re committed to being a valuable partner during the investment and acquisition process.
 
-If you're interested in exploring the benefits of working with us, please don't hesitate to [contact us](mailto:dave@graywill.com). We would be happy to discuss your business and how we can help it reach its full potential. Thank you for considering us to help you reach your business goals.
+If you're interested in exploring the benefits of working with us, please don't hesitate to [contact us](./contact.md). We would be happy to discuss your business and how we can help it reach its full potential. Thank you for considering us to help you reach your business goals.
 
 ## Acquisitions
 
